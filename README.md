@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente ainda não estou trabalhando 
 - 🌱 Estudo front-end
-- 👯 Busco colaborar com projetos que me permitam aprender coisas novas e me aperfeiçoar
+- 👯 Busco colaborar em projetos que me permitam aprender coisas novas e me aperfeiçoar
 - 📫 email: alinemarianna06@gmail.com
 - ⚡ Curiosidade: sou técina em desenvolvimento de sistemas
 
