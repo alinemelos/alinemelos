@@ -1,4 +1,4 @@
-### Olá, eu sou Aline Marianna 👋
+### Oi, sou Aline Marianna o(*￣▽￣*)o
 
 - 🔭 Atualmente ainda não estou trabalhando 
 - 🌱 Estudo front-end
