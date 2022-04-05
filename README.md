@@ -17,3 +17,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
   
  <a href="https://instagram.com/aline_marianna" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <div>
+<img src="https://activity-graph.herokuapp.com/graph?username=alinemelos&theme=react-dark&hide_border=true&area=true">
+</div>
