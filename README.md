@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente ainda não estou trabalhando 
 - 🌱 Estudo front-end
+- 👩🏽‍🎓 Graduanda em Ciência da Computação
 - 👯 Busco colaborar em projetos que me permitam aprender coisas novas e me aperfeiçoar
 - 📫 email: alinemarianna06@gmail.com
 - ⚡ Curiosidade: sou técina em desenvolvimento de sistemas
