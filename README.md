@@ -1,8 +1,8 @@
 ### Oi, sou Aline Marianna o(*￣▽￣*)o
 
 - 🔭 Atualmente ainda não estou trabalhando 
-- 🌱 Estudo front-end
-- 👩🏽‍🎓 Graduanda em Ciência da Computação
+- 🌱 Estudo front-end e back-end
+- 👩🏽‍🎓 Graduanda em Ciência da Computação na UFPE
 - 👯 Busco colaborar em projetos que me permitam aprender coisas novas e me aperfeiçoar
 - 📫 email: alinemarianna06@gmail.com
 - ⚡ Curiosidade: sou técina em desenvolvimento de sistemas
@@ -21,5 +21,5 @@
   <a href="mailto:alinemarianna06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   
   <div>
-<img src="https://activity-graph.herokuapp.com/graph?username=alinemelos&theme=react-dark&hide_border=true&area=true">
+
 </div>
