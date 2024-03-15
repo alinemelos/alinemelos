@@ -1,7 +1,5 @@
 ### Oi, sou Aline Marianna o(*￣▽￣*)o
 
-- 🔭 Atualmente ainda não estou trabalhando 
-- 🌱 Estudo front-end e back-end
 - 👩🏽‍🎓 Graduanda em Ciência da Computação na UFPE
 - 👯 Busco colaborar em projetos que me permitam aprender coisas novas e me aperfeiçoar
 - 📫 email: meloaline703@gmail.com
