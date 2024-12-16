@@ -1,9 +1,7 @@
 ### Oi, sou Aline Marianna o(*￣▽￣*)o
 
 - 👩🏽‍🎓 Graduanda em Ciência da Computação na UFPE
-- 👯 Busco colaborar em projetos que me permitam aprender coisas novas e me aperfeiçoar
 - 📫 email: meloaline703@gmail.com
-- ⚡ Curiosidade: sou técina em desenvolvimento de sistemas
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
